@@ -1,0 +1,55 @@
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+position: absolute;
+left: 10%;
+}
+
+h1 span {
+    font-size: 24px;
+}
+
+body{
+    background-image: url("getresorerie.png");
+  color: black;
+  
+}
+
+.eu img{
+height: 100px;
+position:fixed;
+left: 45%;
+top:15%;
+
+}
+
+.login{
+    position: absolute;
+    left: 40%;
+    bottom: 40%;  
+    border: 10px solid white;
+    height: 150px;
+margin: 0 auto;
+padding:1px 1px;
+}
+button{
+    position: absolute;
+    left:53%;
+    bottom:47%;
+height: 40px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 14px;
+font-weight: bold;
+font-style: italic;
+
+}
+
+a h5{
+    position: absolute;
+    left:52%;
+    bottom:40%;
+  
+}
+*{
+box-sizing: border-box;
+}
